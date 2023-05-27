@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import heroImg from '../images/heroImg.png'
+import heroImg from '../images/HeroImg.png'
 import Link from 'next/link'
 import './globals.css'
 import BooksCard from './components/BooksCard'
