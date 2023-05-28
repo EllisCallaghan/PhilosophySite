@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 const BooksCard = ({image,title,desc,bookLink}) => {
   return (
-    <Link className='flex flex-col flex-wrap gap-[6px] h-[750px]' target='_blank'
+    <Link className='flex flex-col flex-wrap gap-[6px] h-[800px]' target='_blank'
     href={`${bookLink}`}>
         <Image src={image} className='w-[350px] h-[500px] rounded-xl'/>
         <h1 className='w-[70%] text-primary font-primary text-[32px]'>{title}</h1>
