@@ -19,8 +19,7 @@ export default function Home() {
             Change your outlook on life with the wisdom of the ancient.
           </h1>
           <p className='text-2xl font-[500] tablet:text-xl'>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. In posuere consectetur massa, 
-          et mattis est elementum sed. Morbi pulvinar suscipit.
+          Explore the timeless wisdom of Stoic philosophy with our personalized book recommendations. Discover your inner strength and tranquility.
           </p>
           <div className='flex flex-col items-start gap-[24px] mt-16 text-4xl'>
             <a href='#books'
