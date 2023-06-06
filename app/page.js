@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
     <main className="bg-[#1f2132] w-full px-28 md:px-12 tablet:px-8">
-      <div className='flex flex-row h-[100vh] md:h-full items-center pt-20 gap-10 md:flex-col-reverse'>
+      <div className='flex flex-row h-full md:h-full items-center pt-20 gap-10 md:flex-col-reverse'>
         <div className='flex items-start w-[55%] md:w-full pt-10 text-primary font-primary flex-col'>
           <h1 className='font-[800] text-[5rem] xl:text-[4rem] tablet:text-[3rem] tracking-tighter'>
             Change your outlook on life with the wisdom of the ancient.
@@ -55,7 +55,7 @@ export default function Home() {
       
     </main>
     <div className='border border-t w-full bg-[#1f2132] border-t-slate-500 text-primary text-[18px] py-[18px] text-center'>
-    <p>Contact me on Instagram : @stoicdaily2023</p>
+    <p>Contact me on Instagram : @modern.philosophy2023</p>
   </div>
   </>
   )
